@@ -573,10 +573,10 @@ export async function participantsUpdate({
                         contextInfo: {
                         mentionedJid: [user],
                         externalAdReply: {
-                        title: "ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ",
+                        title: "—͟͟͞͞𖣘ⅅℰᏉℐℒ'Ѕ ℬᎾᏆ 𒈞꧂",
                         body: "welcome to Group",
                         thumbnailUrl: welcomeApiUrl,
-                        sourceUrl: 'https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp',
+                        sourceUrl: 'https://chat.whatsapp.com/JClIp7SoGtmAUTPIfSCK1V',
                         mediaType: 1,
                         renderLargerThumbnail: true
                         }}})
